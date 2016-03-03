@@ -1,7 +1,8 @@
 — Edit: 
 
-Heroku mean-contactlist demo app forked and modified to implement modular design 
-services,controllers, in different file then app.js
+Heroku mean-contactlist demo app forked and modified to implement modular design
+
+The services and controllers are all in separate files.  Modifications to the code was necesarry to modularize
 
 — endEdit
 # mean-contactlist
