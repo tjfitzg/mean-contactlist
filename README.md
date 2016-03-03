@@ -2,7 +2,7 @@
 
 Heroku mean-contactlist demo app forked to implement modular design
 
-The services and controllers are all in separate files.  Modifications to the code was necesarry to modularize
+The service and controllers are all in separate files.  Modifications to the code was necesarry to modularize
 
 — endEdit
 # mean-contactlist
