@@ -45,5 +45,4 @@ angular.module("contactsApp").controller('EditContactController',['$scope','$rou
         Contacts.deleteContact(contactId,deleteContactSuccess,deleteContactFail);
     }
 
-
 }]);
