@@ -1,6 +1,8 @@
-— Edit
+— Edit: 
+
 Heroku mean-contactlist demo app forked and modified to implement modular design 
 services,controllers, in different file then app.js
+
 — endEdit
 # mean-contactlist
 
